@@ -6,6 +6,8 @@ int main(int argc, char const *argv[])
 	printf("test02");
 	printf("test06");
 	printf("test07");
+	printf("test00");
+
 
 	return 0;
 }
